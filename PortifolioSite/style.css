@@ -19,7 +19,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #000000, #130453);
+    background: linear-gradient(to right, #000000, #1a076f);
     color: rgb(207, 208, 222);
 }
 
@@ -133,7 +133,7 @@ summary:hover {
 }
 
 .nomeTitulo {
-    font-size: 90px;
+    font-size: 6vw;
     margin: 0;
     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.125);
     font-family: "FonteTitulo";
